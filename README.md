@@ -7,4 +7,5 @@ Contains:
 * Sample instructor guide: pressure.pdf
 
 ## Physics
+* Example in-class guiding exercises
 * Sample lesson plan: radioactivedating.pdf
