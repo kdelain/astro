@@ -1,2 +1,7 @@
 # Physics In-Class Exercises
-* Deriving the rotational kinematics Equations
+Sample group exercises for in class
+* Vector review worksheet
+* Uniform circular motion initial investigation
+* Deriving the rotational kinematics equations
+* Buoyancy
+* Hydrolic Lift pressure exercise
