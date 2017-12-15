@@ -4,6 +4,7 @@
 
 Contains:
 * Labs
+* Sample instructor guide: pressure.pdf
 
 ## Physics
-No contents yet
+* Sample lesson plan: radioactivedating.pdf
